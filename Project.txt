@@ -1,0 +1,13 @@
+Project Electoless Nickel
+
+Specification: AMS 2404 Rev F
+
+Metals:
+Copper Alloys
+Stainless Steel
+Steel
+Aluminum
+
+Machine Specialties Parts
+Qorvo 841193-06
+	AMS 2404 Rev G, Class 1, 0.0005" min
