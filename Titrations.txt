@@ -1,0 +1,58 @@
+Nickel Metal Analysis
+
+Reagents:
+	Concentrate ammonium hydroxide
+	1 % murexide indicator w/CP grade sodium chloride
+	EDTA (disodium dihydrate salt)
+	0.1 molar = 37.235 g/L
+
+Procedure: 
+	1. Pipette 10 ml sample of EN working bath into a 250 mL Erlenmeyer flask
+	2. Add ~ 50 ml of DI water.
+	3. Add 5 ml of concentrated ammonium hydroxide to form a light blue solution.
+	4. Add a pinch of Murexide to form a light brown color solution.
+	5. Titrate with std. 0.1 M EDTA to a violet purple (magenta) endpoint.
+	6. Calculations:
+		ml 0.1 M EDTA	x 0.078 = oz/gal Nickel metal
+				x 0.587 = g/l Nickel metal
+
+Note: 
+	Optimum nickel concentration is 0.8 oz/gal.
+		For every 0.1 oz/gal low of nickel metal, add 1.0 fl. oz/gal of META-PLATE ULTIMA XT II-A.
+
+
+Hypophosphite Analysis
+
+Reagents:
+	6N Hydrochloric Acid (Dilute conc. HCl 50/50 with DI water)
+	0.1N Iodine solution
+	0.1N Sodium Thiosulfate solution
+
+Procedure: 
+	1. Pipette exactly 5 ml aliquot of room temp working bath into an Iodine glass flask.
+	2. Add 50 ml DI H2O and 30 ml of 6N HCL.
+	3. Exactly pipette 50 ml of 0.1 N Iodine Solution into the iodine flask.
+	4. Stopper flask and swirl it to ensure mixing. Then put it in a dark place for at least 35 minutes.
+	5. Remove stopper, rinse flask neck with DI water.
+	6. Titrate immediately with 0.1N Sodium Thiosulfate solution to a clear endpoint.
+	7. Calculations: 
+		[ (ml 0.1N iodine) – (ml 0.1N sodium Thiosulfate) ] x 0.141 = oz/gal sodium hypophosphite
+		[ (ml 0.1N iodine) – (ml 0.1N sodium Thiosulfate) ] x 1.06 = g/l sodium hypophosphite
+
+Note:
+	Optimum concentration is 4.0 oz/gal
+		For every 0.1 oz/gal of Sodium Hypophosphite low, add 0.20 oz/gal META-PLATE ULTIMA XT II-C.
+
+
+pH Control
+
+To raise and maintain pH for normal operation, adjustments should be made with 50 %
+Ammonium Hydroxide or 2 lbs/gal. Potassium Carbonate. To lower pH, if necessary,
+add 25 % reagent grade Sulfuric Acid. Make all additions slowly, with agitation, and
+preferably without work in the tank.
+
+
+Replenishment Chart
+For optimum results, bath replenishment should be maintained by nickel metal analysis.
+Recommended nickel concentration is 0.8 oz/gal. META-PLATE ULTIMA XT II-A
+and META-PLATE ULTIMA XT II-C added at a 1:1 ratio.
