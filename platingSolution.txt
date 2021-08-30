@@ -1,0 +1,10 @@
+Plating Solutions
+
+Product: Meta-Plate Ultima XT II
+
+Comments: 
+Solutions works on copper. The copper base needs to be strike with nickle using MSI's tank number CD8.
+Qorvo 841193-06 needs 30 seconds plating at 30 ASF. Electroless nickel plating for copper requires special
+treatment. Since copper is non-catalytic in comprasion to nickel, it needs the nickle strike. The nickle
+strike facilites the process by applying an electrical current for a few seconds before beginning the
+soaking in the electroless nickel solution. The nickel strike will promote catalytic sites. 
