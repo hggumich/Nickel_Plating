@@ -1,0 +1,18 @@
+Trouble Shooting
+
+A) Solution plated out.
+Solution starts to plate its surroundings.
+	1) Stop plating.
+	2) Dump the solution. Continue plating will consume the chemistry. The nickel on the surrounding will plate faster than the parts.
+	3) Remove ask much of the nickel plated out.
+	4) Fill the tank with 25% nitric acid. Along the solution to dissolve the nickel for 8 - 24 hours.
+	5) Rinse the tank.
+	6) Fill the tank with 25% Ammonia Hydroxide. Neutralize the nitric acid. Nitric acid will unbalance the nickel in the solution.
+	7) Rinse.
+	8) Remake bath.
+
+B) Hardness Fails
+
+C) Hydrogen Embrittlement Fail
+
+D) Low Plating Rate
