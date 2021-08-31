@@ -16,3 +16,9 @@ B) Hardness Fails
 C) Hydrogen Embrittlement Fail
 
 D) Low Plating Rate
+
+E) Pits and Pinholes
+
+F) Frosty Areas
+
+G) Blisters
