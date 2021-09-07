@@ -8,3 +8,8 @@ Qorvo 841193-06 needs 30 seconds plating at 30 ASF. Electroless nickel plating f
 treatment. Since copper is non-catalytic in comprasion to nickel, it needs the nickle strike. The nickle
 strike facilites the process by applying an electrical current for a few seconds before beginning the
 soaking in the electroless nickel solution. The nickel strike will promote catalytic sites. 
+
+HE Testing
+Notch bars were plated for 2 hours.
+Thickness 1.1 mils
+Samples submitted to Omega Research for testing on 9/7/21
